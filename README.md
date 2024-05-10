@@ -1,11 +1,4 @@
-# mutrejadipin.github.io
-theme: jekyll-theme-minimal
-title: Dipin's homepage
-description: Bookmark this to keep an eye on my project updates!
-
-
-
-## 💫 About Me:
+# 💫 About Me:
 <!--![logo](https://github.com/mutrejadipin/mutrejadipin/blob/main/code-coding.gif)-->
 
 <!--
